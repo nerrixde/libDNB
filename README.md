@@ -12,7 +12,7 @@ You can visit the portal here: [portal.dnb.de](https://portal.dnb.de).
 ## Get started
 
 ### Obtain Token
-You need to apply for an API-Key at schnittstellen-service@dnb.de in order to get access to the catalogue. This library uses the **SRU-API**, you need a `SRU Access Token`.
+You need to apply for an API-Key at schnittstellen-service@dnb.de in order to get access to the catalogue. This library uses the `SRU-API`, you need a `SRU Access Token`.
 
 ### Installation
 `pip install libdnb`
